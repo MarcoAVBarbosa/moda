@@ -1,0 +1,41 @@
+body{
+
+}
+#container{
+	margin: 0 auto ;
+}
+
+ul{
+	
+	list-style: none;
+}
+
+form{
+	margin: 0 auto;
+}
+	
+}
+
+a{
+	font-size: 20px;
+}
+
+a:link{
+	color: blue;
+}
+
+a:visited{
+	color: yellow;
+}
+
+a:hover{
+	color: pink;
+}
+
+a:activate{
+	color: green;
+}
+
+.nav{
+	border: 1px solid red;
+}

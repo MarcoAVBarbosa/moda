@@ -1,4 +1,4 @@
-# Bolo Meu
+# Moda Infantil
 
 Este projeto foi desenvolvido para fins didaticos.
 
